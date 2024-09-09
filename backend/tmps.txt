@@ -1,0 +1,3 @@
+ramesh0505rk - usernam
+LH5oszzOIDbEjhWN - password
+mongodb+srv://ramesh0505rk:LH5oszzOIDbEjhWN@cluster0.so3ophz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 - connection string

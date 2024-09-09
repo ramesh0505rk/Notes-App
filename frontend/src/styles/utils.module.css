@@ -1,0 +1,49 @@
+.blockCenter{
+    display: block !important;
+    margin-left: auto ;
+    margin-right: auto ;
+    background:linear-gradient(135deg,rgb(113, 36, 149) 0%,rgb(66, 32, 116) 20%,#D30463 600%);
+    border: none !important;
+}
+.blockCenter:hover{
+    background:linear-gradient(135deg,rgb(113, 36, 149) 0%,#D30463 60%,rgb(66, 32, 116)  600%);
+    box-shadow: 0 0 15px rgba(255, 0, 255, 0.5),0 0 15px rgba(17, 15, 29, 0.5),0 0 15px rgba(255,255,255,0.5) !important;
+}
+
+.flexCenter{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    margin-top: 10px;
+}
+
+.errTexts{
+    color: #f1348c;
+}
+
+.btns{
+    display: block !important;
+    width: 100%;
+    border: none !important;
+    background: linear-gradient(135deg,rgb(113, 36, 149) 0%,rgb(66, 32, 116) 20%,#D30463 600%) !important;
+}
+.btns:hover{
+    background:linear-gradient(135deg,rgb(113, 36, 149) 0%,#D30463 60%,rgb(66, 32, 116)  600%) !important;
+    box-shadow: 0 0 15px rgba(255, 0, 255, 0.5),0 0 15px rgba(17, 15, 29, 0.5),0 0 15px rgba(255,255,255,0.5) !important;
+}
+
+.navBar{
+    background: linear-gradient(135deg,rgb(113, 36, 149) 0%,rgb(66, 32, 116) 20%,#D30463 600%) !important;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.logs{
+    border: none !important;
+    background: linear-gradient(135deg,rgb(113, 36, 149) 0%,rgb(66, 32, 116) 20%,#D30463 600%) !important;
+}
+
+.logs:hover{
+    background:linear-gradient(135deg,rgb(113, 36, 149) 0%,#D30463 60%,rgb(66, 32, 116)  600%) !important;
+    box-shadow: 0 0 15px rgba(255, 0, 255, 0.5),0 0 15px rgba(17, 15, 29, 0.5),0 0 15px rgba(255,255,255,0.5) !important;
+}
